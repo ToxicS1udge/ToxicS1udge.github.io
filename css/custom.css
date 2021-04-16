@@ -4,12 +4,28 @@
     font-display : swap;
   }
   
-  h1#site-title {
+h1#site-title {
     font-family: 'Candyhome', sans-serif;
   }
 
-  body {
+body {
       font-family: 'Candyhome';
       src:url('/fonts/Candy.ttf'); /* 字体文件路径 */
       font-display : swap;
   }
+
+body {
+    cursor: url(https://i.loli.net/2021/04/16/Oy5f2akqG7KRZeA.gif), auto;
+}
+
+.hide-block>.hide-button.open,
+.hide-inline>.hide-button.open {
+    display: block
+}
+
+a,
+button,
+img {
+    cursor: url(https://i.loli.net/2021/04/16/bueAI24YZhc5QXL.gif), auto
+}
+
