@@ -1883,7 +1883,8 @@ blockquote footer cite:before {
   margin-left: 0.5rem;
   padding-bottom: 1rem;
   padding-left: 1rem;
-  font-size: 1.72em;
+  font-size: 4em;
+  color: #000;
 }
 .article-sort-title:hover:before {
   border-color: #ff7242;
@@ -3190,7 +3191,6 @@ blockquote footer cite:before {
 }
 #footer {
   position: relative;
-  background: #49b1f5;
   background-attachment: local;
   background-position: bottom;
   -webkit-background-size: cover;
