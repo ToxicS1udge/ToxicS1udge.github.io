@@ -1897,7 +1897,7 @@ blockquote footer cite:before {
   padding-bottom: 1rem;
   padding-left: 1rem;
   font-size: 4em;
-  color: #000;
+  color: #808080;
 }
 .article-sort-title:hover:before {
   border-color: #ff7242;
@@ -3791,7 +3791,7 @@ _:future,
 }
 #pagination.pagination-post {
   margin-top: 2rem;
-  background: rgba(0,0,0,0.8);
+  background: rgba(0,0,0,0.1);
 }
 #article-container {
   word-wrap: break-word;
@@ -3963,7 +3963,7 @@ _:future,
   margin: 3px;
   width: calc(33.333% - 6px);
   height: 200px;
-  background: rgba(0,0,0,0.8);
+  background: rgba(0,0,0,0.1);
   vertical-align: bottom;
 }
 .relatedPosts > .relatedPosts-list > div:hover .cover {
@@ -4483,7 +4483,7 @@ figure.gallery-group {
   width: calc(50% - 0.4rem);
   height: 250px;
   border-radius: 8px;
-  background: rgba(0,0,0,0.8);
+  background: rgba(0,0,0,0.1);
   -webkit-transform: translate3d(0, 0, 0);
 }
 @media screen and (max-width: 600px) {
