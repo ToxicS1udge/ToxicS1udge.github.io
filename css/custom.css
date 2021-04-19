@@ -29,12 +29,6 @@ img {
     cursor: url(https://i.loli.net/2021/04/16/bueAI24YZhc5QXL.gif), auto
 }
 
-#content-inner {
-    --dark_bg_color: rgba(18, 18, 18, 0.7);
-    --light_page_color: rgba(255, 255, 255, 0.5);
-    --dark_page_color: rgba(18, 18, 18, 0.8);
-}
-
 #page-header{
     background-color: rgba(255, 255, 255, 0);
     background-image: none!important;
@@ -46,20 +40,20 @@ img {
 
 [data-theme="dark"]
   #aside-content .card-widget{
-      background: rgba(0, 0, 0, 0.5)!important;
+      background: rgba(0, 0, 0, 0.7)!important;
     }
 [data-theme="dark"]
   div#post{
-    background: rgba(0, 0, 0, 0.5)!important;
+    background: rgba(0, 0, 0, 0.7)!important;
     }
 
 [data-theme="dark"]
     #page-header:before{
-        background: rgba(0, 0, 0, 0.5)!important;
+        background: rgba(0, 0, 0, 0.7)!important;
       }
 [data-theme="dark"]
     #recent-posts > .recent-post-item{
-      background: rgba(0, 0, 0, 0.5)!important;
+      background: rgba(0, 0, 0, 0.7)!important;
       }
 
 #waifu-tool span{
