@@ -49,7 +49,7 @@ img {
 
 [data-theme="dark"]
     #page-header:before{
-        background: rgba(0, 0, 0, 0.4)!important;
+        background: rgba(0, 0, 0, 0)!important;
       }
 [data-theme="dark"]
     #recent-posts > .recent-post-item{
