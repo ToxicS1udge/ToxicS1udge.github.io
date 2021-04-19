@@ -65,3 +65,7 @@ img {
 #waifu-tool span{
   color: #fd7649 !important;
 }
+
+.fa-heart::before {
+  color: firebrick !important;
+}

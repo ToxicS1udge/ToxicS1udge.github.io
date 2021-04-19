@@ -3227,10 +3227,16 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://i.loli.net/2021/04/19/jzZ1kGY3Thf4Bpi.jpg');
+  background: url('https://i.loli.net/2021/04/20/Zuztobjh5YfKx41.jpg');
+}
+li.categoryBar-list-item:nth-child(2) {
+  background: url('https://i.loli.net/2021/04/20/D8HLloVIbkKWF2B.jpg');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
-  content: 'hexo搭建教程在这里！' !important;
+  content: '这里是代码的description' !important;
+}
+li.categoryBar-list-item:nth-child(2)>span::after {
+  content: '这里是博客的description' !important;
 }
 li.categoryBar-list-item {
   width: 32.3% !important;
