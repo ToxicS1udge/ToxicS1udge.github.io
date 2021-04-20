@@ -8,7 +8,7 @@ h1#site-title {
     font-family: 'Candyhome', sans-serif;
   }
 
-body {
+h1 {
       font-family: 'Candyhome';
       src:url('/fonts/Candy.ttf'); /* 字体文件路径 */
       font-display : swap;
@@ -62,4 +62,27 @@ img {
 
 .fa-heart::before {
   color: firebrick !important;
+}
+
+#aside-content .card-tag-cloud a{
+  color:rgb(65, 60, 60)!important
+}
+
+#nav #site-name{
+  font-family: 'Candyhome';
+  src:url('/fonts/Candy.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
+
+#recent-posts > .recent-post-item >.recent-post-info > .article-title{
+  font-family: 'Candyhome';
+  src:url('/fonts/Candy.ttf'); /* 字体文件路径 */
+  font-display : swap;
+}
+
+.article-sort-title{
+  font-family: 'Candyhome';
+  src:url('/fonts/Candy.ttf'); /* 字体文件路径 */
+  font-display : swap;
+  color:rgb(66, 62, 62)
 }
